@@ -1,4 +1,5 @@
 # A5CosmicNecessity
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18801089.svg)](https://doi.org/10.5281/zenodo.18801089)
 
 **Uniqueness of Icosahedral Holonomy from Three Physical Principles
 and Its Algebraic Consequences for Fundamental Constants**
