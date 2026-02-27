@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Non-Solvability as a Physical Principle: A5 and the Algebraic Origin of Information Barriers"
+authors:
+  - given-names: "Masaru"
+    family-names: "Numagaki"
+    orcid: "https://orcid.org/0000-0001-5683-0845"
+version: "1.0"
+date-released: "2026-02-27"
+repository-code: "https://github.com/nuu/A5CosmicNecessity"
+abstract: >
+  Lean 4 formalization of the theorem that A₅ is the unique
+  finite subgroup of SO(3) satisfying non-solvability,
+  simplicity, and perfectness, with applications to
+  icosahedral prohibition structures for fundamental constants.
+  All proofs are fully verified (sorry = 0, axiom = 0).
+license: Apache-2.0
+keywords:
+  - "A5"
+  - "finite holonomy"
+  - "Klein classification"
+  - "prohibition structure"
+  - "McKay Correspondence"
+  - "Information barriers"
